@@ -48,8 +48,10 @@ main {
 }
 
 .recipe-card img {
-    max-width: 100%;
-    border-radius: 8px;
+    width: 100px; 
+    height: 100px; 
+    object-fit: cover; 
+    border-radius: 8px; 
 }
 
 footer {
